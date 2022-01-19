@@ -1,2 +1,4 @@
 # Example Repository
-This is a sample repo, hello world!
+This is a sample repository, hello world!
+Hi i am Sathishkumar..... 
+so of Ravichandran.
